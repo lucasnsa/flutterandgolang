@@ -1,0 +1,2 @@
+/mnt/dev/blog/flutter+golang/fluttergo/android/app/.cxx/Debug/1y5pt2x5/x86/CMakeFiles/rebuild_cache.dir
+/mnt/dev/blog/flutter+golang/fluttergo/android/app/.cxx/Debug/1y5pt2x5/x86/CMakeFiles/edit_cache.dir

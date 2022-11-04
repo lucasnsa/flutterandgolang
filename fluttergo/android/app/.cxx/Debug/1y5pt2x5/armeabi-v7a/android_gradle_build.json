@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/mnt/dev/blog/flutter+golang/fluttergo/android/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/mnt/arquivos/Develop/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/mnt/dev/blog/flutter+golang/fluttergo/android/app/.cxx/Debug/1y5pt2x5/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/mnt/arquivos/Develop/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/mnt/dev/blog/flutter+golang/fluttergo/android/app/.cxx/Debug/1y5pt2x5/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/mnt/arquivos/Develop/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/mnt/arquivos/Develop/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}
